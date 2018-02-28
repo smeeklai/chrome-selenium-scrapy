@@ -7,7 +7,7 @@ Ready to run python 3.6.4 docker image with chrome, selenium and scrapy installe
 ### Quick Demo
 1. Run `docker run --rm -it windness/chrome-selenium-scrapy:python /bin/bash`
 2. Run `nano simple-selenium.py` or use `vim` as you like
-3. Copy the code in `simple-selenium.py` and paste it
+3. Copy the code inside `simple-selenium.py` and paste it
 4. Save the file and run `python simple-selenium.py`
 
 ### Use with Scrapy
