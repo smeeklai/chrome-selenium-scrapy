@@ -32,3 +32,5 @@ RUN apt-get install -y git nano vim
 
 # Install scrapy & selenium
 RUN pip install scrapy selenium
+
+CMD [ "/bin/bash" ]
